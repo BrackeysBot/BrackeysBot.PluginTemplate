@@ -3,18 +3,18 @@
     <PropertyGroup>
         <TargetFramework>net6.0</TargetFramework>
         <Nullable>enable</Nullable>
-        <Version>1.0.0</Version>
-        <FileVersion>1.0.0</FileVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <Version>0.0.1</Version>
+        <FileVersion>0.0.1</FileVersion>
+        <AssemblyVersion>0.0.1.0</AssemblyVersion>
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="BrackeysBot.API" Version="4.0.0-prerelease.9" />
+        <PackageReference Include="BrackeysBot.API" Version="4.0.0-prerelease.9"/>
     </ItemGroup>
 
     <ItemGroup>
-      <None Remove="config.json" />
-      <EmbeddedResource Include="config.json" />
+        <None Remove="config.json"/>
+        <EmbeddedResource Include="config.json"/>
     </ItemGroup>
 
 </Project>
