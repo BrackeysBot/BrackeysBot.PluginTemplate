@@ -6,7 +6,7 @@ namespace BrackeysBot.PluginTemplate;
 /// <summary>
 ///     Represents a class which implements an example plugin.
 /// </summary>
-[Plugin("TestPlugin", "1.0.0")]
+[Plugin("TestPlugin")]
 [PluginDescription("An empty template plugin to demonstrate the usage of the BrackeysBot API.")]
 public sealed class TestPlugin : MonoPlugin
 {
