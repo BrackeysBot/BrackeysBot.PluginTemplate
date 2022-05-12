@@ -9,7 +9,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="BrackeysBot.API" Version="4.0.0-nightly.34"/>
+        <PackageReference Include="BrackeysBot.API" Version="4.0.0-nightly.35"/>
     </ItemGroup>
 
     <ItemGroup>
